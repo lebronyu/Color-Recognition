@@ -1,4 +1,8 @@
-## Welcome to our project website
+## 2017-03-13
 
-但我们还没开始呢
+搭建VS2015+OpenCV 2工作环境
+
+## 2017-03-15
+
+理解工作目标
 
